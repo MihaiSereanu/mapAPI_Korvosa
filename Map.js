@@ -8,7 +8,7 @@ var map = L.map('map', [0,0]).setView([0,0], 0)
 // Tile references
 L.tileLayer('korvosa/{z}/{x}/{y}.png', {
   minZoom: 2,
-  maxZoom: 4,
+  maxZoom: 5,
   maxNativeZoom: 5,
   crs: L.CRS.Simple,
   noWrap: true,
