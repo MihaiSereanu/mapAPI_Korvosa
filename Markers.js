@@ -100,7 +100,7 @@ var lg_lSite = L.featureGroup([v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,v13]).on('
 var lg_tSch = L.featureGroup([t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11]).on('click', zoomToMax);
 
 function zoomToMax(e) {
-  map.setView(e.latlng, 4)
+  map.setView(e.latlng, 5)
 };
 
 // Control overlays
