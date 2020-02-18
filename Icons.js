@@ -195,249 +195,249 @@ var homes_inns19 = L.icon({
 });
 // // restaurants_taverns //
 var rest_tavern1 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r1.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R1.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern2 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r2.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R2.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern3 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r3.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R3.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern4 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r4.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R4.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern5 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r5.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R5.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern6 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r6.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R6.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern7 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r7.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R7.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern8 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r8.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R8.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern9 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r9.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R9.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var rest_tavern10 = L.icon({
-    iconUrl: `korvosa/placements/restaurants_taverns/r10.png`,
+    iconUrl: `korvosa/placements/restaurants_taverns/R10.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 // // shops_services //
 var shop_service1 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s1.png`,
+    iconUrl: `korvosa/placements/shops_services/S1.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service2 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s2.png`,
+    iconUrl: `korvosa/placements/shops_services/S2.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service3 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s3.png`,
+    iconUrl: `korvosa/placements/shops_services/S3.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service4 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s4.png`,
+    iconUrl: `korvosa/placements/shops_services/S4.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service5 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s5.png`,
+    iconUrl: `korvosa/placements/shops_services/S5.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service6 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s6.png`,
+    iconUrl: `korvosa/placements/shops_services/S6.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service7 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s7.png`,
+    iconUrl: `korvosa/placements/shops_services/S7.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service8 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s8.png`,
+    iconUrl: `korvosa/placements/shops_services/S8.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service9 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s9.png`,
+    iconUrl: `korvosa/placements/shops_services/S9.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service10 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s10.png`,
+    iconUrl: `korvosa/placements/shops_services/S10.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service11 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s11.png`,
+    iconUrl: `korvosa/placements/shops_services/S11.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service12 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s12.png`,
+    iconUrl: `korvosa/placements/shops_services/S12.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service13 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s13.png`,
+    iconUrl: `korvosa/placements/shops_services/S13.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service14 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s14.png`,
+    iconUrl: `korvosa/placements/shops_services/S14.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service15 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s15.png`,
+    iconUrl: `korvosa/placements/shops_services/S15.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service16 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s16.png`,
+    iconUrl: `korvosa/placements/shops_services/S16.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service17 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s17.png`,
+    iconUrl: `korvosa/placements/shops_services/S17.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var shop_service18 = L.icon({
-    iconUrl: `korvosa/placements/shops_services/s18.png`,
+    iconUrl: `korvosa/placements/shops_services/S18.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 // // important landmarks //
 var site1 = L.icon({
-    iconUrl: `korvosa/placements/sites/v1.png`,
+    iconUrl: `korvosa/placements/sites/V1.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site2 = L.icon({
-    iconUrl: `korvosa/placements/sites/v2.png`,
+    iconUrl: `korvosa/placements/sites/V2.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site3 = L.icon({
-    iconUrl: `korvosa/placements/sites/v3.png`,
+    iconUrl: `korvosa/placements/sites/V3.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site4 = L.icon({
-    iconUrl: `korvosa/placements/sites/v4.png`,
+    iconUrl: `korvosa/placements/sites/V4.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site5 = L.icon({
-    iconUrl: `korvosa/placements/sites/v5.png`,
+    iconUrl: `korvosa/placements/sites/V5.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site6 = L.icon({
-    iconUrl: `korvosa/placements/sites/v6.png`,
+    iconUrl: `korvosa/placements/sites/V6.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site7 = L.icon({
-    iconUrl: `korvosa/placements/sites/v7.png`,
+    iconUrl: `korvosa/placements/sites/V7.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site8 = L.icon({
-    iconUrl: `korvosa/placements/sites/v8.png`,
+    iconUrl: `korvosa/placements/sites/V8.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site9 = L.icon({
-    iconUrl: `korvosa/placements/sites/v9.png`,
+    iconUrl: `korvosa/placements/sites/V9.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site10 = L.icon({
-    iconUrl: `korvosa/placements/sites/v10.png`,
+    iconUrl: `korvosa/placements/sites/V10.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site11 = L.icon({
-    iconUrl: `korvosa/placements/sites/v11.png`,
+    iconUrl: `korvosa/placements/sites/V11.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site12 = L.icon({
-    iconUrl: `korvosa/placements/sites/v12.png`,
+    iconUrl: `korvosa/placements/sites/V12.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
 });
 var site13 = L.icon({
-    iconUrl: `korvosa/placements/sites/v13.png`,
+    iconUrl: `korvosa/placements/sites/V13.png`,
     iconSize: [25, 25],
     iconAnchor: [10, 12],
     popupAnchor: [-3, -76],
