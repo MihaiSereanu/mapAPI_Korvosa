@@ -26,4 +26,4 @@ map.setMaxBounds(new L.LatLngBounds(
 
 var imageBounds = [[-85, -180], [85, 180]];
 var image = L.imageOverlay('korvosa/korvosa square overlay.png', imageBounds).addTo(map)
-map.fitBounds(imageBounds)
+map.fitBounds(imageBounds);
